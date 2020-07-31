@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://penko:penko123@devbook.ofdp7.mongodb.net/DevBook?retryWrites=true&w=majority"
+}
