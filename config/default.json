@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://penko:penko123@devbook.ofdp7.mongodb.net/DevBook?retryWrites=true&w=majority",
-  "jwtToken": "mysecrettoken"
+  "jwtToken": "mysecrettoken",
+  "githubClientId": "90246da2e84ff503d491",
+  "githubSecret": "9400a5c733b7082ca4a4726513fb5b93963f1345"
 }
