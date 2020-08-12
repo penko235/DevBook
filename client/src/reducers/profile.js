@@ -31,7 +31,8 @@ export default function (state = initialState, action) {
       return {
         ...state,
         error: payload,
-        loading: false
+        loading: false,
+        profile: null  // If a guest user browses a dev profile and then registers, the browsed users profile data is still in the "profile" state and the newly registered user then sees and can edit the users info, so i clear that profile state when no profile is found for the new user
       }
     case CLEAR_PROFILE:
       return {
