@@ -13,6 +13,7 @@ import Profiles from '../profiles/Profiles';
 import Profile from '../profile/Profile';
 import Posts from '../posts/Posts';
 import Post from '../post/Post';
+import Portfolio from '../contacts/Portfolio';
 import NotFound from '../layout/NotFound';
 import PrivateRoute from '../routing/PrivateRoute';
 
@@ -25,6 +26,7 @@ export const Routes = () => {
         <Route exact path='/login' component={Login} />
         <Route exact path='/profiles' component={Profiles} />
         <Route exact path='/profile/:id' component={Profile} />
+        <Route exact path='/portfolio' component={Portfolio} />
         <PrivateRoute exact path='/dashboard' component={Dashboard} />
         <PrivateRoute exact path='/create-profile' component={CreateProfile} />
         <PrivateRoute exact path='/edit-profile' component={EditProfile} />
