@@ -6,7 +6,7 @@ const Portfolio = () => {
 
   return (
     <div>
-      <img src={cv}></img>
+      <img src={cv} alt="cv"></img>
     </div>
   );
 }
