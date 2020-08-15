@@ -1,5 +1,5 @@
 # DevBook - Social network for developers  🌍💻
-![bg](https://ibb.co/fDb0Rbx)
+![bg](./client/src/img/devbook.jpg)
 
 It's a small social network application that includes authentication, profiles and forum posts.
 
