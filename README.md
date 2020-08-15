@@ -1,7 +1,9 @@
 # DevBook - Social network for developers  🌍💻
 ![bg](./client/src/img/devbookgit.jpg)
 
-It's a small social network application that includes authentication, profiles and forum posts.
+
+- It's a small social network application that includes authentication, profiles and forum posts.
+
 
 ## Application Configurations  📑 
 
