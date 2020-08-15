@@ -1,5 +1,5 @@
 # DevBook - Social network for developers  🌍💻
-![bg](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg)
+![bg](./client/src/img/devbookgit.jgp)
 
 It's a small social network application that includes authentication, profiles and forum posts.
 
